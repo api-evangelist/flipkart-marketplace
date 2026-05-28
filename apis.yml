@@ -1,0 +1,32 @@
+aid: flipkart-marketplace
+name: Flipkart Marketplace
+description: "Product listing management, Order Fulfilment in the Flipkart Marketplace"
+url: https://seller.flipkart.com/api-docs/FMSAPI.html
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Shopping"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Shopping
+  - Public APIs
+apis:
+  - name: Flipkart Marketplace
+    description: "Product listing management, Order Fulfilment in the Flipkart Marketplace"
+    humanURL: https://seller.flipkart.com/api-docs/FMSAPI.html
+    baseURL: https://seller.flipkart.com/api-docs/FMSAPI.html
+    tags:
+      - Shopping
+    properties:
+      - type: Documentation
+        url: https://seller.flipkart.com/api-docs/FMSAPI.html
+common:
+  - type: Website
+    url: https://seller.flipkart.com/api-docs/FMSAPI.html
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
