@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://seller.flipkart.com/api-docs/FMSAPI.html
 common:
+  - type: DomainSecurity
+    url: security/flipkart-marketplace-domain-security.yml
   - type: Website
     url: https://seller.flipkart.com/api-docs/FMSAPI.html
   - type: PublicAPIsListing
