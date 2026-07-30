@@ -1,4 +1,16 @@
 aid: flipkart-marketplace
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/flipkart-marketplace.png
 name: Flipkart Marketplace
 description: "Product listing management, Order Fulfilment in the Flipkart Marketplace"
 url: https://seller.flipkart.com/api-docs/FMSAPI.html
